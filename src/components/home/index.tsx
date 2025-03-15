@@ -149,13 +149,13 @@ export default function Home() {
           </span>
         </button>
       </Container>
-      <Container>
+      {/* <Container>
         <div className="max-md:block flex items-center font-semibold text-[52px] max-md:text-2xl text-center text-asia-2 uppercase">
           <span className="flex-1 border-t mr-10 border-asia-7 max-md:hidden min-w-40"></span>
           {t('bloc_2.title')}
           <span className="flex-1 border-t mr-10 border-asia-7 max-md:hidden min-w-40"></span>
         </div>
-      </Container>
+      </Container> */}
       <Container>
         <div className="flex flex-col gap-5 max-sm:gap-2">
           <div className="max-md:block flex items-center font-semibold text-[52px] max-md:text-2xl text-center text-asia-2 uppercase">
